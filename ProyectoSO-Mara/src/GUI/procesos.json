@@ -1,0 +1,277 @@
+{
+  "cicloDuration": 2000,
+  "numCPUs": 2,
+  "procesos": {
+    "pFirst": {
+      "tInfo": {
+        "nombre": "p1",
+        "tipo": "I/OBound",
+        "instrucciones": 15,
+        "ciclosExcepcion": 4,
+        "duracionExcepcion": 6
+      },
+      "pNext": {
+        "tInfo": {
+          "nombre": "p2",
+          "tipo": "CPUBound",
+          "instrucciones": 10,
+          "ciclosExcepcion": 0,
+          "duracionExcepcion": 0
+        },
+        "pNext": {
+          "tInfo": {
+            "nombre": "p3",
+            "tipo": "CPUBound",
+            "instrucciones": 11,
+            "ciclosExcepcion": 0,
+            "duracionExcepcion": 0
+          },
+          "pNext": {
+            "tInfo": {
+              "nombre": "p4",
+              "tipo": "I/OBound",
+              "instrucciones": 6,
+              "ciclosExcepcion": 7,
+              "duracionExcepcion": 3
+            },
+            "pNext": {
+              "tInfo": {
+                "nombre": "p5",
+                "tipo": "CPUBound",
+                "instrucciones": 12,
+                "ciclosExcepcion": 1,
+                "duracionExcepcion": 2
+              },
+              "pNext": {
+                "tInfo": {
+                  "nombre": "p6",
+                  "tipo": "I/OBound",
+                  "instrucciones": 8,
+                  "ciclosExcepcion": 5,
+                  "duracionExcepcion": 3
+                },
+                "pNext": {
+                  "tInfo": {
+                    "nombre": "p7",
+                    "tipo": "CPUBound",
+                    "instrucciones": 9,
+                    "ciclosExcepcion": 2,
+                    "duracionExcepcion": 1
+                  },
+                  "pNext": {
+                    "tInfo": {
+                      "nombre": "p8",
+                      "tipo": "I/OBound",
+                      "instrucciones": 7,
+                      "ciclosExcepcion": 4,
+                      "duracionExcepcion": 2
+                    },
+                    "pNext": {
+                      "tInfo": {
+                        "nombre": "p9",
+                        "tipo": "CPUBound",
+                        "instrucciones": 13,
+                        "ciclosExcepcion": 0,
+                        "duracionExcepcion": 0
+                      },
+                      "pNext": {
+                        "tInfo": {
+                          "nombre": "p10",
+                          "tipo": "I/OBound",
+                          "instrucciones": 14,
+                          "ciclosExcepcion": 6,
+                          "duracionExcepcion": 3
+                        },
+                        "pNext": {
+                          "tInfo": {
+                            "nombre": "p11",
+                            "tipo": "CPUBound",
+                            "instrucciones": 10,
+                            "ciclosExcepcion": 3,
+                            "duracionExcepcion": 2
+                          },
+                          "pNext": {
+                            "tInfo": {
+                              "nombre": "p12",
+                              "tipo": "I/OBound",
+                              "instrucciones": 11,
+                              "ciclosExcepcion": 5,
+                              "duracionExcepcion": 4
+                            },
+                            "pNext": {
+                              "tInfo": {
+                                "nombre": "p13",
+                                "tipo": "CPUBound",
+                                "instrucciones": 15,
+                                "ciclosExcepcion": 0,
+                                "duracionExcepcion": 0
+                              },
+                              "pNext": {
+                                "tInfo": {
+                                  "nombre": "p14",
+                                  "tipo": "I/OBound",
+                                  "instrucciones": 12,
+                                  "ciclosExcepcion": 4,
+                                  "duracionExcepcion": 2
+                                },
+                                "pNext": {
+                                  "tInfo": {
+                                    "nombre": "p15",
+                                    "tipo": "CPUBound",
+                                    "instrucciones": 13,
+                                    "ciclosExcepcion": 1,
+                                    "duracionExcepcion": 1
+                                  },
+                                  "pNext": {
+                                    "tInfo": {
+                                      "nombre": "p16",
+                                      "tipo": "I/OBound",
+                                      "instrucciones": 7,
+                                      "ciclosExcepcion": 3,
+                                      "duracionExcepcion": 2
+                                    },
+                                    "pNext": {
+                                      "tInfo": {
+                                        "nombre": "p17",
+                                        "tipo": "CPUBound",
+                                        "instrucciones": 10,
+                                        "ciclosExcepcion": 2,
+                                        "duracionExcepcion": 1
+                                      },
+                                      "pNext": {
+                                        "tInfo": {
+                                          "nombre": "p18",
+                                          "tipo": "I/OBound",
+                                          "instrucciones": 9,
+                                          "ciclosExcepcion": 5,
+                                          "duracionExcepcion": 3
+                                        },
+                                        "pNext": {
+                                          "tInfo": {
+                                            "nombre": "p19",
+                                            "tipo": "CPUBound",
+                                            "instrucciones": 12,
+                                            "ciclosExcepcion": 0,
+                                            "duracionExcepcion": 0
+                                          },
+                                          "pNext": {
+                                            "tInfo": {
+                                              "nombre": "p20",
+                                              "tipo": "I/OBound",
+                                              "instrucciones": 6,
+                                              "ciclosExcepcion": 7,
+                                              "duracionExcepcion": 3
+                                            },
+                                            "pNext": {
+                                              "tInfo": {
+                                                "nombre": "p21",
+                                                "tipo": "CPUBound",
+                                                "instrucciones": 11,
+                                                "ciclosExcepcion": 0,
+                                                "duracionExcepcion": 0
+                                              },
+                                              "pNext": {
+                                                "tInfo": {
+                                                  "nombre": "p22",
+                                                  "tipo": "I/OBound",
+                                                  "instrucciones": 7,
+                                                  "ciclosExcepcion": 4,
+                                                  "duracionExcepcion": 2
+                                                },
+                                                "pNext": {
+                                                  "tInfo": {
+                                                    "nombre": "p23",
+                                                    "tipo": "CPUBound",
+                                                    "instrucciones": 9,
+                                                    "ciclosExcepcion": 2,
+                                                    "duracionExcepcion": 1
+                                                  },
+                                                  "pNext": {
+                                                    "tInfo": {
+                                                      "nombre": "p24",
+                                                      "tipo": "I/OBound",
+                                                      "instrucciones": 8,
+                                                      "ciclosExcepcion": 5,
+                                                      "duracionExcepcion": 3
+                                                    },
+                                                    "pNext": {
+                                                      "tInfo": {
+                                                        "nombre": "p25",
+                                                        "tipo": "CPUBound",
+                                                        "instrucciones": 10,
+                                                        "ciclosExcepcion": 3,
+                                                        "duracionExcepcion": 2
+                                                      },
+                                                      "pNext": {
+                                                        "tInfo": {
+                                                          "nombre": "p26",
+                                                          "tipo": "I/OBound",
+                                                          "instrucciones": 14,
+                                                          "ciclosExcepcion": 6,
+                                                          "duracionExcepcion": 3
+                                                        },
+                                                        "pNext": {
+                                                          "tInfo": {
+                                                            "nombre": "p27",
+                                                            "tipo": "CPUBound",
+                                                            "instrucciones": 11,
+                                                            "ciclosExcepcion": 5,
+                                                            "duracionExcepcion": 4
+                                                          },
+                                                          "pNext": {
+                                                            "tInfo": {
+                                                              "nombre": "p28",
+                                                              "tipo": "I/OBound",
+                                                              "instrucciones": 15,
+                                                              "ciclosExcepcion": 4,
+                                                              "duracionExcepcion": 6
+                                                            },
+                                                            "pNext": {
+                                                              "tInfo": {
+                                                                "nombre": "p29",
+                                                                "tipo": "CPUBound",
+                                                                "instrucciones": 12,
+                                                                "ciclosExcepcion": 3,
+                                                                "duracionExcepcion": 2
+                                                              },
+                                                              "pNext": {
+                                                                "tInfo": {
+                                                                  "nombre": "p30",
+                                                                  "tipo": "I/OBound",
+                                                                  "instrucciones": 13,
+                                                                  "ciclosExcepcion": 1,
+                                                                  "duracionExcepcion": 1
+                                                                }
+                                                              }
+                                                            }
+                                                          }
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "id": 0
+  }
+}
