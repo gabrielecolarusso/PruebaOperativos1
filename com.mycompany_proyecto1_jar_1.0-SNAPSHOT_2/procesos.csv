@@ -1,9 +1,0 @@
-ID,Name,Type,Status,ProgramCounter,MemoryAddressRegister,Duration,Quantum,WaitingTime,Instructions
-0,Process1,I/O Bound,ready,1,0,3000,0,0,100;200;500;600
-1,Process2,I/O Bound,ready,1,0,2500,0,0,50;150;400;500
-2,Process3,I/O Bound,ready,1,0,2000,0,0,10;20;300;400
-3,ProcessSmall1,CPU Bound,ready,1,0,500,0,0,[]
-4,ProcessSmall2,CPU Bound,ready,1,0,400,0,0,[]
-5,ProcessLarge1,CPU Bound,ready,1,0,3500,0,0,[]
-6,ProcessLarge2,CPU Bound,ready,1,0,3000,0,0,[]
-7,ProcessMedium,CPU Bound,ready,1,0,1500,0,0,[]
