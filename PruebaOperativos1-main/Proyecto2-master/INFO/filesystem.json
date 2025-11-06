@@ -1,0 +1,97 @@
+{
+  "name": "root",
+  "subDirectories": {},
+  "files": {
+    "cabeza": {
+      "dato": {
+        "name": "khsbc",
+        "size": 2,
+        "blocks": {
+          "cabeza": {
+            "dato": 37,
+            "siguiente": {
+              "dato": 93
+            }
+          }
+        }
+      },
+      "siguiente": {
+        "dato": {
+          "name": "fsvsf",
+          "size": 23,
+          "blocks": {
+            "cabeza": {
+              "dato": 91,
+              "siguiente": {
+                "dato": 32,
+                "siguiente": {
+                  "dato": 64,
+                  "siguiente": {
+                    "dato": 39,
+                    "siguiente": {
+                      "dato": 62,
+                      "siguiente": {
+                        "dato": 21,
+                        "siguiente": {
+                          "dato": 78,
+                          "siguiente": {
+                            "dato": 67,
+                            "siguiente": {
+                              "dato": 35,
+                              "siguiente": {
+                                "dato": 36,
+                                "siguiente": {
+                                  "dato": 34,
+                                  "siguiente": {
+                                    "dato": 12,
+                                    "siguiente": {
+                                      "dato": 29,
+                                      "siguiente": {
+                                        "dato": 41,
+                                        "siguiente": {
+                                          "dato": 15,
+                                          "siguiente": {
+                                            "dato": 76,
+                                            "siguiente": {
+                                              "dato": 63,
+                                              "siguiente": {
+                                                "dato": 1,
+                                                "siguiente": {
+                                                  "dato": 65,
+                                                  "siguiente": {
+                                                    "dato": 92,
+                                                    "siguiente": {
+                                                      "dato": 17,
+                                                      "siguiente": {
+                                                        "dato": 77,
+                                                        "siguiente": {
+                                                          "dato": 83
+                                                        }
+                                                      }
+                                                    }
+                                                  }
+                                                }
+                                              }
+                                            }
+                                          }
+                                        }
+                                      }
+                                    }
+                                  }
+                                }
+                              }
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
